@@ -1,8 +1,14 @@
 # Todos App
 
-Projede Vue, Vite, Vuetify, axios, pinia ve js-file-download kullanılarak geliştirilmiştir.
+## :rocket: Teknolijiler
+- Vue + Vite
+- Vuetify
+- axios
+- pinia
+- js-file-download
 
 ## Projeyi Başlatma
+## :information_source: Projeyi Başlatma
 
 1. Terminalinizi proje dizininde açın.
 

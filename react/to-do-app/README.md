@@ -1,8 +1,13 @@
 # Todos App
 
-Projede React, Vite, MaterialUI, axios ve js-file-download kullanılarak geliştirilmiştir.
+## :rocket: Teknolijiler
+- React + Vite
+- MaterialUI
+- axios
+- js-file-download
 
 ## Projeyi Başlatma
+## :information_source: Projeyi Başlatma
 
 1. Terminalinizi proje dizininde açın.
 
@@ -11,3 +16,4 @@ Projede React, Vite, MaterialUI, axios ve js-file-download kullanılarak gelişt
     ```bash
     npm run dev
     ```
+    
